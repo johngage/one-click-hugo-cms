@@ -1,6 +1,5 @@
 ---
 title: "March 25 New Material"
-subtitle: "Changing housing for good"
 type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer for cheap housing
@@ -10,15 +9,7 @@ intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability. Header Image is stored in /img/ as a .jpg; 
-        Then, a "intro" lists each element, called a blurb, named in the header, 
-        with a specific image directory reference, all of them are .svg; 
-        Then, there's a "main" with a header and images...
-        looks like all the content is in the header YAML
+        Some housing text
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and

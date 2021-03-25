@@ -1,9 +1,11 @@
 ---
-title: Our Coffee
+title: This is very sensitive to format
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Cheap housing for refugee camps
 description: >-
+  I am indented two spaces, and I continue until there is a end of line which is about now. Below me is more text
+  which I extended too far.
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to

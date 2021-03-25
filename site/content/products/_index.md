@@ -2,8 +2,8 @@
 title: March 25 New Material
 type: products
 image: /img/products-jumbotron.jpg
-  heading: What we offer for cheap housing
-    description: >
+heading: What we offer for cheap housing
+  description: >
       Header information about product.  Header Image is stored in /img/ as a .jpg; Then, a "intro" lists each element, called a        blurb, named in the header, with a specific image directory reference, all of them are .svg; Then, there's a "main" with a        header and images...looks like all the content is in the header YAML
 intro:
   blurbs:

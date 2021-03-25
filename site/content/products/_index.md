@@ -16,7 +16,8 @@ intro:
         local communities. Check our post or contact us directly for current
         availability. Header Image is stored in /img/ as a .jpg; 
         Then, a "intro" lists each element, called a blurb, named in the header, 
-        with a specific image directory reference, all of them are .svg; Then, there's a "main" with a header and images...
+        with a specific image directory reference, all of them are .svg; 
+        Then, there's a "main" with a header and images...
         looks like all the content is in the header YAML
     - image: /img/illustrations-coffee-gear.svg
       text: >

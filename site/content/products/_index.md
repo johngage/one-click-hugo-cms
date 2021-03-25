@@ -2,9 +2,10 @@
 title: March 25 New Material
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer for cheap housing
-description: >
-   Header information about product.  Header Image is stored in /img/ as a .jpg; Then, a "intro" lists each element, called a        blurb, named in the header, with a specific image directory reference, all of them are .svg; Then, there's a "main" with a        header and images...looks like all the content is in the header YAML
+header:
+  heading: What we offer for cheap housing
+    description: >
+      Header information about product.  Header Image is stored in /img/ as a .jpg; Then, a "intro" lists each element, called a        blurb, named in the header, with a specific image directory reference, all of them are .svg; Then, there's a "main" with a        header and images...looks like all the content is in the header YAML
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -34,14 +35,11 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: What we offer as a second heading
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Did the second heading get to be first?  This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Great housing with no compromises
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s

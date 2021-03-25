@@ -2,10 +2,9 @@
 title: This is very sensitive to format
 type: products
 image: /img/products-jumbotron.jpg
-heading: Cheap housing for refugee camps
+heading: This appears nowhere
 description: >-
-  I am indented two spaces, and I continue until there is.
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  HNP is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.

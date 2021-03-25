@@ -4,8 +4,7 @@ type: products
 image: /img/products-jumbotron.jpg
 heading: Cheap housing for refugee camps
 description: >-
-  I am indented two spaces, and I continue until there is a end of line which is about now. Below me is more text
-  which I extended too far.
+  I am indented two spaces, and I continue until there is.
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
@@ -41,7 +40,7 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer now
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    NewName is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
